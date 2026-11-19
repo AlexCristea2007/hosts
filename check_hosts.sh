@@ -15,3 +15,4 @@ while IFS= read -r line; do
      echo "Invalid IP format: $ip"
    fi
 done < "$FILE"
+echo "Student A: Alex"
